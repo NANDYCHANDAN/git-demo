@@ -1,4 +1,4 @@
-# My First Git Repo
+# This is my first ever git object
 
-This is my first ever file for git repo
 
+Hi This is Chandan Nandy - My first ever Object in Git Repo. 
